@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [booklog](https://github.com/DavidRaet/booklog)
 
-- 🌱 I’m currently learning **TIP101 | Intro to Technical Interview Prep (CodePath)**
+- 🌱 I’m currently learning **AI110 | Foundations of AI Engineering (CodePath)**
 
 - 📫 How to reach me **draet@vassar.edu**
 
