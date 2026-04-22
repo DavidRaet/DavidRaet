@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">A passionate software developer always learning something new everyday</h3>
 
-- 🔭 I’m currently working on [kyomei](https://github.com/DavidRaet/kyomei)
+- 🔭 I’m currently working on [taskCLI](https://github.com/DavidRaet/taskCLI)
 
 - 🌱 I’m currently learning **AI110 | Foundations of AI Engineering (CodePath)**
 
