@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [taskCLI](https://github.com/DavidRaet/taskCLI)
 
-- 🌱 I’m currently learning **AI110 | Foundations of AI Engineering (CodePath)**
+- 🌱 I’m currently learning **AI210 | Applications of AI Engineering (CodePath)**
 
 - 📫 How to reach me **draet@vassar.edu**
 
