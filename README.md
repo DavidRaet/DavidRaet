@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [kyomei_0](https://github.com/DavidRaet/kyomei_0)
 
-- 🌱 I’m currently learning **AI210 | Applications of AI Engineering (CodePath)**
+- 🌱 I’m currently learning **AI201 | Applications of AI Engineering (CodePath)**
 
 - 📫 How to reach me **draet@vassar.edu**
 
