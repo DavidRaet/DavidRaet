@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">A passionate software developer always learning something new everyday</h3>
 
-- 🔭 I’m currently working on [kyomei_0](https://github.com/DavidRaet/kyomei_0)
+- 🔭 I’m currently working on [takemeter](https://github.com/DavidRaet/ai201-project3-takemeter)
 
 - 🌱 I’m currently learning **AI201 | Applications of AI Engineering (CodePath)**
 
