@@ -2,11 +2,8 @@
 <h3 align="center">A passionate software developer always learning something new everyday</h3>
 
 - 🔭 I’m currently working on [provenance-guard](https://github.com/DavidRaet/ai201-project4-provenance-guard)
-
 - 🌱 I’m currently learning **AI301 | AI Open Source Capstone (CodePath)**
-- 
 - 📫 How to reach me **draet@vassar.edu**
-
 - ⚡ Fun fact **big one piece fan 🏴‍☠️**
 
 <h3 align="left">Connect with me:</h3>
